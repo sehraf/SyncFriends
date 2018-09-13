@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>sync.svg</file>
+    </qresource>
+</RCC>
