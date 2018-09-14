@@ -45,6 +45,7 @@ private:
 
 	uint32_t getNextId();	
 
+public:
 	std::list<syncFriends::ticket> getTickets() const;
 	void doCleanUp(const bool all = false);
 	syncFriends::config getConfig() const;
